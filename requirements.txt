@@ -1,0 +1,10 @@
+fitz
+Pillow
+transformers
+scikit-learn
+numpy
+ultralytics
+torch
+opencv-python
+rapidocr-onnxruntime
+sentencepiece
